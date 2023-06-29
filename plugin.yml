@@ -1,0 +1,5 @@
+name: TestProject
+main: com.samcodes.TestProj.TestProject
+version: 1.0
+api-version: 1.20
+commands:
