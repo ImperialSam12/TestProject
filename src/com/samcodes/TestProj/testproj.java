@@ -8,6 +8,7 @@ public class TestProj extends JavaPlugin {
         onDisable();
         return;
     }
+    @Override
     public void onDisable() {
 
     }
